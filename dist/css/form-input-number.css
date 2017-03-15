@@ -1,0 +1,32 @@
+/*
+ * 1. Container width fits its content
+ * 2. Create position context
+ * 3. Prevent `inline-block` consequences
+ */
+.uk-form-input-number {
+  /* 1 */
+  display: inline-block;
+  /* 2 */
+  position: relative;
+  /* 3 */
+  max-width: 100%; }
+
+.uk-form-input-number > [class*='uk-form-input-number-'] {
+  position: absolute;
+  top: 50%;
+  width: 14px;
+  margin-top: -7px;
+  font-size: 14px;
+  text-align: center;
+  display: inline-block;
+  line-height: 1; }
+
+.uk-form-input-number > input {
+  padding-left: 30px !important;
+  padding-right: 30px !important; }
+
+.uk-form-input-number > .uk-form-input-number-decrement {
+  left: 0; }
+
+.uk-form-input-number > .uk-form-input-number-increment {
+  right: 0; }
