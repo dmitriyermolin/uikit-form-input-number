@@ -1,4 +1,4 @@
-# Form numeric input component for [https://github.com/uikit/uikit](UIkit front-end framework)
+# Form numeric input component for [UIkit front-end framework](https://github.com/uikit/uikit)
 
 This component adds nice-looking controls for decrementing and incrementing numeric input value.
 
