@@ -1,0 +1,18 @@
+{
+  "name": "uikit-form-input-number",
+  "version": "0.0.1"
+  "homepage": "https://github.com/dmitriyermolin/uikit-form-input-number",
+  "authors": [
+    "Dmitriy Ermolin <dmitriy.ermolin@gmail.com>"
+  ],
+  "description": "Form numeric input component for UIkit front-end framework",
+  "license": "MIT",
+  "main": [
+    "js/form-input-number.min.js",
+    "css/form-input-number.min.css"
+  ],
+  "dependencies": {
+    "uikit": "^2.27.0",
+  },
+  "private": true
+}
