@@ -12,7 +12,7 @@
     "css/form-input-number.min.css"
   ],
   "dependencies": {
-    "uikit": "^2.27.0",
+    "uikit": "^2.27.0"
   },
   "private": true
 }
