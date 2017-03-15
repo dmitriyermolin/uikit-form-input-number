@@ -13,5 +13,5 @@
   "dependencies": {
     "uikit": "^2.27.0"
   },
-  "private": true
+  "private": false
 }
