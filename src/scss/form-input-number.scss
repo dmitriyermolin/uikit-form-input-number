@@ -17,7 +17,7 @@ $form-input-number-control-font-size:                            14px !default;
 .uk-form-input-number > [class*='uk-form-input-number-'] {
   position: absolute;
   top: 50%;
-  width: $form-input-number-control-font-size;
+  width: $form-input-number-control-width;
   margin-top: -7px;
   font-size: $form-input-number-control-font-size;
   text-align: center;
