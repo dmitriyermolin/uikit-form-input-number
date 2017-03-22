@@ -14,7 +14,7 @@
 .uk-form-input-number > [class*='uk-form-input-number-'] {
   position: absolute;
   top: 50%;
-  width: 14px;
+  width: 30px;
   margin-top: -7px;
   font-size: 14px;
   text-align: center;
